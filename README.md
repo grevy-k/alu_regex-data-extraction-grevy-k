@@ -6,7 +6,8 @@ This repository contains a Python script to extract 4 specific data types from a
    - URLs
    - Phone numbers
    - Credit card numbers
-#How to Use
+
+# How to Use
 
 1. Clone the repository:
   
@@ -71,4 +72,5 @@ Contributions are welcome! If you find any bugs, have feature requests, or want 
 For any questions or suggestions, feel free to reach out:
 
 Email: g.karuretwa@gmail.com
+
 GitHub: grevy-k
