@@ -6,7 +6,7 @@ This repository contains a Python script to extract 4 specific data types from a
    - URLs
    - Phone numbers
    - Credit card numbers
- **How to Use**
+#How to Use
 
 1. Clone the repository:
   
@@ -32,7 +32,7 @@ The script will read data from "ls.txt" and extract the following:
 
 
 
- **OUTPUT OF THE SCRIPT**
+#OUTPUT OF THE SCRIPT
 
 
  **** EXTRACTED email addresses: ****
@@ -64,3 +64,11 @@ The script will read data from "ls.txt" and extract the following:
   - 1234 5678 9012 3456
 
   - 1234-5678-9012-3456
+
+#Contributing
+Contributions are welcome! If you find any bugs, have feature requests, or want to improve the regex patterns, feel free to submit an issue or a pull request.
+#Contact
+For any questions or suggestions, feel free to reach out:
+
+Email: g.karuretwa@gmail.com
+GitHub: grevy-k
