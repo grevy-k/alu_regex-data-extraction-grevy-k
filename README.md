@@ -32,7 +32,7 @@ The script will read data from "ls.txt" and extract the following:
 
 
 
-#OUTPUT OF THE SCRIPT
+# OUTPUT OF THE SCRIPT
 
 
  **** EXTRACTED email addresses: ****
@@ -65,9 +65,9 @@ The script will read data from "ls.txt" and extract the following:
 
   - 1234-5678-9012-3456
 
-#Contributing
+# Contributing
 Contributions are welcome! If you find any bugs, have feature requests, or want to improve the regex patterns, feel free to submit an issue or a pull request.
-#Contact
+# Contact
 For any questions or suggestions, feel free to reach out:
 
 Email: g.karuretwa@gmail.com
